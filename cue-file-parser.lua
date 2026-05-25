@@ -1,5 +1,5 @@
 --[[
-	Cue-File-Parser is a freeee and simple calculator for adding, subtracting, multiplying, and dividing feet and inches.
+	Cue-File-Parser is a freeee and simple parser for cue files.
 	copyright <2026> by return5
 	It is licenced under the GNU AGPL license only. no later versions of the license are valid unless otherwise specified.
     This program is free software: you can redistribute it and/or modify
